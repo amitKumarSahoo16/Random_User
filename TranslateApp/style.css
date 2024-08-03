@@ -1,0 +1,25 @@
+textarea{
+    display: block;
+    height: 10vh;
+    width: 80vh;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+input:hover{
+    background-color: aquamarine;
+    box-shadow: 2px 2px 0  red ;
+}
+
+input{
+    display: block;
+    text-size-adjust: 20px;
+}
+#output{
+    display: block;
+    height: 10vh;
+    width: 80vh;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+}

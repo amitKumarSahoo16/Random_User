@@ -1,0 +1,49 @@
+.box1{
+    height: 130px;
+    width: 130px;
+    background-color: aqua;
+    position: absolute;
+    top: 10px;
+    
+   
+}
+.box2{
+    height: 110px;
+    width: 110px;
+    background-color: orchid;
+    position: absolute;
+   
+    left: 880px;
+    top: 10px;
+    
+} 
+.box3{
+    height: 120px;
+    width: 120px;
+    background-color:yellowgreen;
+    position: absolute;
+    bottom: 200px;
+}
+.box4{
+    height: 110px;
+    width: 110px;
+    background-color:blue;
+    
+    position: absolute;
+    left: 880px;
+    bottom: 200px;
+
+    
+} 
+.child{
+    border: 2px solid black;
+}
+.p-container{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+    display:flex;
+    align-items: center;
+    
+}
